@@ -1,0 +1,47 @@
+commit 011d2c3081da4641021f46bbe7680d42894b3fdd
+Author: kalilcisse <kalilou.cisse.250@gmail.com>
+Date:   Thu Nov 23 11:50:05 2023 +0100
+
+     readme dans meteo
+
+commit 6821afbfd76613fd6def4243d19d80340dd1fec5
+Author: kalilcisse <kalilou.cisse.250@gmail.com>
+Date:   Thu Nov 23 11:46:50 2023 +0100
+
+    Ajout de commentaire sur la météo dans le README
+
+commit 6cc924d7aef90f4d8e157776401803a8ee5805eb
+Author: kalilcisse <kalilou.cisse.250@gmail.com>
+Date:   Thu Nov 23 11:43:37 2023 +0100
+
+    Modification météo
+
+commit b2c98cdad00a8ab9de7f3f9105a7bd66a1edd522
+Author: kalilcisse <kalilou.cisse.250@gmail.com>
+Date:   Thu Nov 23 11:36:30 2023 +0100
+
+    Hello World1
+
+commit 7122dae1ee8d2fcaede4be741783b02cbe66d4f8
+Author: kalilcisse <kalilou.cisse.250@gmail.com>
+Date:   Thu Nov 23 11:32:33 2023 +0100
+
+    Hello World
+
+commit 6910c08a01626d0a5676108687990126f88edc31
+Author: kalilcisse <kalilou.cisse.250@gmail.com>
+Date:   Thu Nov 23 11:29:12 2023 +0100
+
+    Création du fichier README
+
+commit cd4c629defac4bc7f8a3aab6e8f5d2500f92acdf
+Author: kalilcisse <56305353+kalilcisse@users.noreply.github.com>
+Date:   Thu Nov 23 11:16:57 2023 +0100
+
+    Create anglais.txt
+
+commit 3900674a445965d83e7ff215d9ca0b1e725569ed
+Author: kalilcisse <56305353+kalilcisse@users.noreply.github.com>
+Date:   Thu Nov 23 11:16:14 2023 +0100
+
+    Initial commit
