@@ -1,0 +1,22 @@
+19d1cd5 HEAD@{0}: commit: ajout log.txt
+011d2c3 HEAD@{1}: checkout: moving from tobedeleted to main
+9b521c0 HEAD@{2}: commit: ajout azerty
+011d2c3 HEAD@{3}: checkout: moving from main to tobedeleted
+011d2c3 HEAD@{4}: reset: moving to 011d2c3081da4641021f46bbe7680d42894b3fdd
+011d2c3 HEAD@{5}: reset: moving to 011d2c3081da4641021f46bbe7680d42894b3fdd
+011d2c3 HEAD@{6}: reset: moving to 011d2c3081da4641021f46bbe7680d42894b3fdd
+011d2c3 HEAD@{7}: checkout: moving from hobby to main
+f02d6a8 HEAD@{8}: commit: **README dans branch hobby
+1fffd54 HEAD@{9}: commit: le code partage ses hobbies
+0cda576 HEAD@{10}: commit: modif hobby
+011d2c3 HEAD@{11}: checkout: moving from main to hobby
+011d2c3 HEAD@{12}: merge meteo: Fast-forward
+b2c98cd HEAD@{13}: checkout: moving from meteo to main
+011d2c3 HEAD@{14}: commit: readme dans meteo
+6821afb HEAD@{15}: commit: Ajout de commentaire sur la météo dans le README
+6cc924d HEAD@{16}: commit: Modification météo
+b2c98cd HEAD@{17}: checkout: moving from main to meteo
+b2c98cd HEAD@{18}: commit: Hello World1
+7122dae HEAD@{19}: commit: Hello World
+6910c08 HEAD@{20}: commit: Création du fichier README
+cd4c629 HEAD@{21}: clone: from https://github.com/kalilcisse/controle.git
